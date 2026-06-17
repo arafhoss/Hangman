@@ -16,7 +16,7 @@
 
 ---
 
-## How to Run
+## How to run?
 
 ### 1. Compile the program
 ```bash
